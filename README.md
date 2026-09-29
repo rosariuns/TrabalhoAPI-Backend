@@ -156,9 +156,3 @@ Reinicie a API antes, para os IDs baterem.
 | `class file has wrong version` | `JAVA_HOME` aponta para Java antigo | Apontar `JAVA_HOME` para o JDK 17 |
 | `mvnw.cmd não é reconhecido` | PowerShell exige o caminho | Usar `.\mvnw.cmd` (com `.\`) |
 | Porta 8080 ocupada | Outro programa usando a porta | Colocar `server.port=8081` em `application.properties` |
-
-## Integrantes
-
-- Nome 1
-- Nome 2
-- Nome 3
